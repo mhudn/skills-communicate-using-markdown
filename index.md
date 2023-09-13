@@ -17,3 +17,7 @@ sudo apt update -y
 ``` python
 print("Hello World")
 ```
+
+- [x] Buy the domain mhudn.com
+- [ ] build my portfolio site
+- [ ] Introduce myself to the world
