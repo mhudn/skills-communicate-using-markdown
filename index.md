@@ -8,3 +8,12 @@
 Added H1 to H6 headers example!
 
 ![Slice of an Orange](https://cdn.pixabay.com/photo/2016/03/03/17/15/fruit-1234657_1280.png)
+
+
+``` bash
+sudo apt update -y
+```
+
+``` python
+print("Hello World")
+```
